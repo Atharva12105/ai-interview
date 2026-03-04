@@ -1,1 +1,4 @@
 # ai-interview
+PORT
+MONGODB_URI
+GEMINI_API_KEY
