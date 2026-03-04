@@ -1,0 +1,48 @@
+############################
+# Server (Backend)
+############################
+
+server/node_modules/
+server/.env
+server/logs/
+server/*.log
+server/dist/
+server/build/
+
+############################
+# Client (Frontend)
+############################
+
+client/node_modules/
+client/dist/
+client/build/
+client/.env
+
+############################
+# General
+############################
+
+node_modules/
+.env
+*.log
+logs/
+
+############################
+# OS Files
+############################
+
+.DS_Store
+Thumbs.db
+
+############################
+# IDE
+############################
+
+.vscode/
+.idea/
+
+############################
+# Coverage
+############################
+
+coverage/
